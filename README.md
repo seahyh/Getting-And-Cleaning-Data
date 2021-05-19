@@ -6,7 +6,7 @@ This repo was created to finish the assignment for week 4 of Getting and Cleanin
   	Finally, execute R source code to generate tidy data file.
 
 # Dataset
-	Human Activity Recognition Using Smartphones
+	https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip  
 
 # Files
 	CodeBook.md: a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data
